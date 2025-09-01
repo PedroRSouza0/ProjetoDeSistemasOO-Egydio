@@ -1,10 +1,78 @@
-# Projeto De Sistemas Orientado a Objeto - Egydio
-***
-- Este repositório é dedidcado ao armazenamento e registro dos documentos e sprints desenvolvidas na matéria de Projeto de Sistemas Orientado a Objeto
+# 📌 Projeto de Sistemas Orientado a Objetos  
+Repositório da matéria **PROJETO DE SISTEMAS ORIENTADO A OBJETOS** do curso **Análise e Desenvolvimento de Sistemas - UNIP 2025**
 
-## SPRINT 1 - (19/08 - 26/08)
-- Desenvolvimento do repositorio com boas práticas
-[Diagrama de caso de uso](https://github.com/PedroRSouza0/ProjetoDeSistemasOO-Egydio/blob/main/NeoDesk%20Atualizado.asta)
+---
 
-## Protótipo de Tela
-[Protótipo de Tela](https://www.figma.com/proto/PNPPrRL9X2HOf28W2uVfBA/Untitled?node-id=0-1&t=lVBYdFW5QGeTdOtv-1)
+## 🔎 Descrição
+Este projeto tem como objetivo o desenvolvimento de um **sistema inteligente de Help Desk**.  
+A proposta consiste em aprimorar um sistema desktop convencional, tornando-o mais organizado e automatizado por meio da integração de **Inteligência Artificial**, de forma a otimizar o tempo dos técnicos de TI, permitindo que se dediquem à análise de chamados mais complexos.
+
+---
+
+## ⚙️ Funcionalidades do Sistema
+- Login de usuário  
+- Cadastro de usuário  
+- Alterar senha  
+- Criar chamado  
+- Editar chamado  
+- Fechar chamado  
+- Aprovar solução  
+- Devolver solução  
+- Visualizar chamado  
+- Visualizar histórico de chamados  
+- Filtrar chamados  
+- Exportar dados  
+- Desativar usuário  
+
+---
+
+## 🗂️ Planejamento das Sprints
+
+| Sprint   | Data              | Atividades                                      | Status      |
+|----------|-------------------|------------------------------------------------|-------------|
+| Sprint 1 | 19/08 - 26/08     | Configuração do repositório e boas práticas     | ✅ Concluído |
+| Sprint 2 |                   |                                                |             |
+| Sprint 3 |                   |                                                |             |
+| Sprint 4 |                   |                                                |             |
+| Sprint 5 |                   |                                                |             |
+
+---
+
+## 📁 Requisitos
+Os requisitos estão divididos entre **funcionais** e **não funcionais**.  
+Os funcionais representam as **funcionalidades do sistema** (citadas acima).
+
+---
+
+## 🧠 Diagrama de Funcionamento do Sistema
+- [Diagrama de caso de uso](https://github.com/PedroRSouza0/ProjetoDeSistemasOO-Egydio/blob/main/NeoDesk%20Atualizado.asta)  
+
+---
+
+## 🖥️ Protótipo de Interface
+- [Protótipo de Tela](https://www.figma.com/proto/PNPPrRL9X2HOf28W2uVfBA/Untitled?node-id=0-1&t=lVBYdFW5QGeTdOtv-1)
+
+
+---
+
+## 🗄️ Modelo Banco de Dados
+- [Diagrama Entidade Relacionamento]  
+
+---
+
+## 🧪 Tecnologias Utilizadas
+- C# com ASP.NET Core MVC  
+- Entity Framework Core  
+- SQL Server  
+- HTML / CSS  
+- JavaScript  
+- Git e GitHub  
+- Visual Studio / VS Code  
+- Figma  
+- Astah  
+
+---
+
+## 📚 Documentação
+Em desenvolvimento...
+
