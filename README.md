@@ -30,10 +30,10 @@ Este projeto visa o desenvolvimento de um **sistema inteligente de Help Desk**, 
 | Sprint   | Data              | Atividades                                      | Status      |
 |----------|-------------------|-------------------------------------------------|-------------|
 | Sprint 1 | 19/08 - 26/08     | Configuração do repositório, definição de boas práticas e criação do banco de dados | ✅ Concluído |
-| Sprint 2 | 27/08 - 03/09     | Implementação das funcionalidades de login, cadastro de usuário e alteração de senha | ⏳ Em andamento |
-| Sprint 3 | 04/09 - 10/09     | Desenvolvimento das funcionalidades de criação e edição de chamados | ⏳ Em andamento |
-| Sprint 4 | 11/09 - 17/09     | Implementação das funções de fechar chamado, aprovar/devolver solução e visualização de histórico | 🕒 Pendente |
-| Sprint 5 | 18/09 - 24/09     | Finalização de filtros de chamados, exportação de dados e desativação de usuários | 🕒 Pendente |
+| Sprint 2 | 27/08 - 03/09     | Implementação das funcionalidades de login, cadastro de usuário e alteração de senha | ✅ Concluído |
+| Sprint 3 | 04/09 - 10/09     | Desenvolvimento das funcionalidades de criação e edição de chamados | ✅ Concluído |
+| Sprint 4 | 11/09 - 17/09     | Implementação das funções de fechar chamado, aprovar/devolver solução e visualização de histórico | ✅ Concluído |
+| Sprint 5 | 18/09 - 24/09     | Finalização de filtros de chamados, exportação de dados e desativação de usuários | ✅ Concluído |
 
 ---
 
