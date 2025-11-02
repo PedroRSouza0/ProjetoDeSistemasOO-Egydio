@@ -2,7 +2,7 @@
 ### 📚 API 4º Semestre ADS
 
 <p align="center">
-  <img src=""C:\Users\Admin\OneDrive\Imagens\NeoDesk_images\logo neodesk.png"" alt="logo do projeto" width="200">
+  <img src="https://github.com/PedroRSouza0/ProjetoDeSistemasOO-Egydio/blob/main/imagens/logo%20neodesk.png" alt="logo do projeto" width="200">
   <h2 align="center">PIM 4 - Help Desk Inteligente</h2>
 </p>
 
